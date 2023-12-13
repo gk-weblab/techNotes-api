@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&display=swap");
+
+html {
+	font-family: "Nova Square", cursive;
+}
+
+body {
+	background-color: #000;
+	color: #fff;
+	display: flex;
+	place-content: center;
+	place-items: center;
+}
